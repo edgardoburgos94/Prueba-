@@ -1,0 +1,2 @@
+module SendIdHelper
+end
